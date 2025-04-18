@@ -1,14 +1,14 @@
 # site properties and page defaults
-title: filrg
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: FIL Research Group
+subtitle: Advanced Networking and Smart Applications Laboratory 
+description: FILRG is a research group with strong international networks, engaging students and experts in cutting-edge research. Our focus areas include immersive multimedia, networking, and smart applications.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@filrg.com
+  email: futureinternetlab@gmail.com
     # orcid: 0000-0001-8713-9213
     # google-scholar: ETJoidYAAAAJ
   github: filrg
