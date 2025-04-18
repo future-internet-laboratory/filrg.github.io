@@ -1,0 +1,2024 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1109/ACCESS.2025.3538802
+  title: 'NAVA: A Network-Adaptive View-Aware Volumetric Video Streaming Framework'
+  authors:
+  - Nguyen Long Quang
+  - Truong Thu Huong
+  - Duc Nguyen
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/g89jnh
+  orcid: 0000-0002-6428-8539
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - XR communications
+  image: https://ieeexplore.ieee.org/ielx8/6287639/10820123/10870276/graphical_abstract/access-gagraphic-3538802.jpg
+- id: doi:10.1145/3595916.3626429
+  title: Toward Optimal Real-time Dynamic Point Cloud Streaming over Bandwidth-constrained
+    Networks
+  authors:
+  - Quang Long Nguyen
+  - Duc Nguyen
+  - Huong Thu Truong
+  publisher: ACM Multimedia Asia 2023
+  date: '2023-12-06'
+  link: https://doi.org/g89jnw
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1587/comex.2023xbl0022
+  title: Visibility-aware 3D models transmission for virtual reality applications
+  authors:
+  - Nguyen Long Quang
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  - Truong Cong Thang
+  - Duc Nguyen
+  publisher: IEICE Communications Express
+  date: '2023-06-01'
+  link: https://doi.org/g89jnx
+  orcid: 0009-0009-8395-6545
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comcom.2024.01.001
+  title: Scalable and resilient 360-degree-video adaptive streaming over HTTP/2 against
+    sudden network drops
+  authors:
+  - Viet Hung Nguyen
+  - Duy Tien Bui
+  - Thanh Lam Tran
+  - Cong Thang Truong
+  - Thu Huong Truong
+  publisher: Computer Communications
+  date: '2024-02-01'
+  link: https://doi.org/g89jnz
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MCE.2024.3519777
+  title: 'QoE Assessment for Prompt-based Videos: Acceptability and Quality Factors'
+  authors:
+  - Chibuike Onuoha
+  - Shihao Luo
+  - Truong Cong Thang
+  - Vu Hai Dang
+  - Nguyen Duc Nam
+  - Truong Thu Huong
+  publisher: IEEE Consumer Electronics Magazine
+  date: '2024-01-01'
+  link: https://doi.org/g89jn2
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.21780704
+  title: Scalable and Resilient 360-degree-Video Adaptive Streaming over HTTP/2 against
+    Sudden Network Drops
+  authors:
+  - Hung Nguyen Viet
+  - Thu Huong Truong
+  - Thang Truong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2023-07-10'
+  link: https://doi.org/g89jn3
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.21780704.v3
+  title: Scalable and Resilient 360-degree-Video Adaptive Streaming over HTTP/2 against
+    Sudden Network Drops
+  authors:
+  - Hung Nguyen Viet
+  - Thu Huong Truong
+  - Thang Truong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2023-07-10'
+  link: https://doi.org/g89jn4
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.21755879
+  title: Flexible HTTP-based Video Adaptive Streaming for good QoE during sudden bandwidth
+    drops
+  authors:
+  - Hung Nguyen Viet
+  - Pham Nam
+  - Thu Huong Truong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2023-06-14'
+  link: https://doi.org/g89jn5
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.21755879.v2
+  title: Flexible HTTP-based Video Adaptive Streaming for good QoE during sudden bandwidth
+    drops
+  authors:
+  - Hung Nguyen Viet
+  - Pham Nam
+  - Thu Huong Truong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2023-06-14'
+  link: https://doi.org/g89jn6
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compind.2023.103888
+  title: 'Trans-Lighter: A light-weight federated learning-based architecture for
+    Remaining Useful Lifetime prediction'
+  authors:
+  - Nguyen Huu Du
+  - Nguyen Hoang Long
+  - Kieu Ngan Ha
+  - Nguyen Viet Hoang
+  - Truong Thu Huong
+  - Kim Phuc Tran
+  publisher: Computers in Industry
+  date: '2023-06-01'
+  link: https://doi.org/g89jn7
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.21780704.v2
+  title: Scalable and Resilient 360-degree-Video Adaptive Streaming over HTTP/2 against
+    Sudden Network Drops
+  authors:
+  - Hung Nguyen Viet
+  - Thu Huong Truong
+  - Thang Truong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2023-01-09'
+  link: https://doi.org/g89jn8
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3328956
+  title: Joint Preloading and Bitrate Adaptation for Short Video Streaming
+  authors:
+  - Nguyen Tien Phong
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  - Truong Cong Thang
+  - Duc Nguyen
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g89jn9
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.21755879.v1
+  title: Flexible QoE optimized Video Adaptive Streaming over HTTP for sudden bandwidth
+    drops
+  authors:
+  - Hung Nguyen Viet
+  - Pham Nam
+  - Thu Huong Truong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2022-12-24'
+  link: https://doi.org/g89jpc
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4108/eetinis.v9i4.2218
+  title: An Accurate Viewport Estimation Method for 360 Video Streaming using Deep
+    Learning
+  authors:
+  - Hung Nguyen
+  - Thu Ngan Dao
+  - Ngoc Son Pham
+  - Tran Long Dang
+  - Trung Dung Nguyen
+  - Thu Huong Truong
+  publisher: EAI Endorsed Transactions on Industrial Networks and Intelligent Systems
+  date: '2022-09-21'
+  link: https://doi.org/g89jpd
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compind.2022.103692
+  title: Light-weight federated learning-based anomaly detection for time-series data
+    in industrial control systems
+  authors:
+  - Huong Thu Truong
+  - Bac Phuong Ta
+  - Quang Anh Le
+  - Dan Minh Nguyen
+  - Cong Thanh Le
+  - Hoang Xuan Nguyen
+  - Ha Thu Do
+  - Hung Tai Nguyen
+  - Kim Phuc Tran
+  publisher: Computers in Industry
+  date: '2022-09-01'
+  link: https://doi.org/g89jpf
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.19134935.v1
+  title: "AN EFFECTIVE FOVEATED 360\xB0 IMAGE ASSESSMENT BASED ON GRAPH CONVOLUTION\
+    \ NETWORK"
+  authors:
+  - Thu Huong Truong
+  - Ha Do Thu
+  - Thi Thanh Huyen Tran
+  - Thang Truong
+  - Pham Nam
+  - Thanh Nguyen
+  - Viet Ngo
+  - Tien Bui
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2022-02-10'
+  link: https://doi.org/g89jpg
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.19134935
+  title: "AN EFFECTIVE FOVEATED 360\xB0 IMAGE ASSESSMENT BASED ON GRAPH CONVOLUTION\
+    \ NETWORK"
+  authors:
+  - Thu Huong Truong
+  - Ha Do Thu
+  - Thi Thanh Huyen Tran
+  - Thang Truong
+  - Pham Nam
+  - Thanh Nguyen
+  - Viet Ngo
+  - Tien Bui
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2022-02-10'
+  link: https://doi.org/g89jph
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icce53296.2022.9730536
+  title: A Cross-Layer Framework for Multi-user 360-degree Video Streaming over Cellular
+    Networks
+  authors:
+  - Duc Nguyen
+  - Nguyen Viet Hung
+  - Truong Thu Huong
+  - Truong Cong Thang
+  publisher: 2022 IEEE International Conference on Consumer Electronics (ICCE)
+  date: '2022-01-07'
+  link: https://doi.org/g89jpj
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3204766
+  title: "An Effective Foveated 360\xB0 Image Assessment Based on Graph Convolution\
+    \ Network"
+  authors:
+  - Truong Thu Huong
+  - Do Thu Ha
+  - Huyen T. T. Tran
+  - Ngo Duc Viet
+  - Bui Duy Tien
+  - Nguyen Huu Thanh
+  - Truong Cong Thang
+  - Pham Ngoc Nam
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g89jpk
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3173288
+  title: Federated Learning-Based Explainable Anomaly Detection for Industrial Control
+    Systems
+  authors:
+  - Truong Thu Huong
+  - Ta Phuong Bac
+  - Kieu Ngan Ha
+  - Nguyen Viet Hoang
+  - Nguyen Xuan Hoang
+  - Nguyen Tai Hung
+  - Kim Phuc Tran
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g89jpm
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3165657
+  title: Scalable Multicast for Live 360-Degree Video Streaming Over Mobile Networks
+  authors:
+  - Duc Nguyen
+  - Nguyen Viet Hung
+  - Nguyen Tien Phong
+  - Truong Thu Huong
+  - Truong Cong Thang
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g89jpn
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compind.2021.103509
+  title: 'Detecting cyberattacks using anomaly detection in industrial control systems:
+    A Federated Learning approach'
+  authors:
+  - Truong Thu Huong
+  - Ta Phuong Bac
+  - Dao Minh Long
+  - Tran Duc Luong
+  - Nguyen Minh Dan
+  - Le Anh Quang
+  - Le Thanh Cong
+  - Bui Doan Thang
+  - Kim Phuc Tran
+  publisher: Computers in Industry
+  date: '2021-11-01'
+  link: https://doi.org/gqdcfc
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22937/IJCSNS.2021.21.6.23
+  title: A Data-centric Analysis to Evaluate Suitable Machine-Learning-based Network-Attack
+    Classification Schemes
+  authors:
+  - Truong Thu Huong
+  - Ta Phuong Bac
+  - Bui Doan Thang
+  - Dao Minh Long
+  - Le Anh Quang
+  - Nguyen Minh Dan
+  - Nguyen Viet Hoang
+  publisher: International Journal of Computer Science and Network Security
+  date: '2021-06-30'
+  link: https://doi.org/g89jpp
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/jiot.2021.3064986
+  title: "Energy-Aware Service Function Chain Embedding in Edge\u2013Cloud Environments\
+    \ for IoT Applications"
+  authors:
+  - Nguyen Huu Thanh
+  - Nguyen Trung Kien
+  - Ngo Van Hoa
+  - Truong Thu Huong
+  - Florian Wamser
+  - Tobias Hossfeld
+  publisher: IEEE Internet of Things Journal
+  date: '2021-09-01'
+  link: https://doi.org/g89jpq
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3058528
+  title: 'LocKedge: Low-Complexity Cyberattack Detection in IoT Edge Computing'
+  authors:
+  - Truong Thu Huong
+  - Ta Phuong Bac
+  - Dao M. Long
+  - Bui D. Thang
+  - Nguyen T. Binh
+  - Tran D. Luong
+  - Tran Kim Phuc
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g89jpr
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNSM.2020.3004415
+  title: 'DeepGuard: Efficient Anomaly Detection in SDN With Fine-Grained Traffic
+    Flow Monitoring'
+  authors:
+  - Trung V. Phan
+  - Tri Gia Nguyen
+  - Nhu-Ngoc Dao
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  - Thomas Bauschert
+  publisher: IEEE Transactions on Network and Service Management
+  date: '2020-09-01'
+  link: https://doi.org/gqg6vj
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4108/eai.13-6-2019.159801
+  title: A data-driven approach for Network Intrusion Detection and Monitoring based
+    on Kernel Null Space
+  authors:
+  - Truong Huong
+  - Ta Bac
+  - Quoc Nguyen
+  - Huu Nguyen
+  - Kim Tran
+  publisher: EAI Endorsed Transactions on Industrial Networks and Intelligent Systems
+  date: '2019-08-30'
+  link: https://doi.org/g89jps
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/comjnl/bxy117
+  title: "SDN-Based SYN Proxy\u2014A Solution to Enhance Performance of Attack Mitigation\
+    \ Under TCP SYN Flood"
+  authors:
+  - Van Tuyen Dang
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  - Pham Ngoc Nam
+  - Nguyen Ngoc Thanh
+  - Alan Marshall
+  publisher: The Computer Journal
+  date: '2018-11-15'
+  link: https://doi.org/g89jpt
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-30149-1_11
+  title: A Data-Driven Approach for Network Intrusion Detection and Monitoring Based
+    on Kernel Null Space
+  authors:
+  - Thu Huong Truong
+  - Phuong Bac Ta
+  - Quoc Thong Nguyen
+  - Huu Du Nguyen
+  - Kim Phuc Tran
+  publisher: Lecture Notes of the Institute for Computer Sciences, Social Informatics
+    and Telecommunications Engineering
+  date: '2019-01-01'
+  link: https://doi.org/g89jp2
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2019.2953983
+  title: Impacts of Retina-Related Zones on Quality Perception of Omnidirectional
+    Image
+  authors:
+  - Huyen T. T. Tran
+  - Duc V. Nguyen
+  - Nam Pham Ngoc
+  - Trang H. Hoang
+  - Truong Thu Huong
+  - Truong Cong Thang
+  publisher: IEEE Access
+  date: '2019-01-01'
+  link: https://doi.org/g89jqc
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-30149-1_4
+  title: QoE-Aware Video Streaming over HTTP and Software Defined Networking
+  authors:
+  - Pham Hong Thinh
+  - Nguyen Thanh Dat
+  - Pham Ngoc Nam
+  - Nguyen Huu Thanh
+  - Truong Thu Huong
+  publisher: Lecture Notes of the Institute for Computer Sciences, Social Informatics
+    and Telecommunications Engineering
+  date: '2019-01-01'
+  link: https://doi.org/g89jqf
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MMSP.2019.8901805
+  title: Scalable 360 Video Streaming using HTTP/2
+  authors:
+  - Duc V. Nguyen
+  - Hoang Van Trung
+  - Hoang Le Dieu Huong
+  - Truong Thu Huong
+  - Nam Pham Ngoc
+  - Truong Cong Thang
+  publisher: 2019 IEEE 21st International Workshop on Multimedia Signal Processing
+    (MMSP)
+  date: '2019-09-01'
+  link: https://doi.org/g89jqh
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/atc.2018.8587569
+  title: A Scheduler for Time Slotted Channel Hopping Networks supporting QoS Differentiated
+    Services
+  authors:
+  - Kieu-Ha Phung
+  - Truong Thu Huong
+  - Dao Khanh Dung
+  - Vu Xuan Tuong
+  - Tien Pham
+  - Thang Nguyen
+  - Kris Steenhaut
+  publisher: 2018 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2018-10-01'
+  link: https://doi.org/ghn46v
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/cce.2018.8465718
+  title: Nested One-Class Support Vector Machines for Network Intrusion Detection
+  authors:
+  - Quoc Thong Nguyen
+  - Kim Phuc Tran
+  - Philippe Castagliola
+  - Truong Thu Huong
+  - Minh Kha Nguyen
+  - Salim Lardjane
+  publisher: 2018 IEEE Seventh International Conference on Communications and Electronics
+    (ICCE)
+  date: '2018-07-01'
+  link: https://doi.org/g89jqj
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/sigtelcom.2018.8325799
+  title: Analysis and assessment of LoRaWAN
+  authors:
+  - Kieu-Ha Phung
+  - Hieu Tran
+  - Quan Nguyen
+  - Truong Thu Huong
+  - Thanh-Long Nguyen
+  publisher: 2018 2nd International Conference on Recent Advances in Signal Processing,
+    Telecommunications &amp; Computing (SigTelCom)
+  date: '2018-01-01'
+  link: https://doi.org/gjsmws
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icoin.2018.8343119
+  title: Self-organizing map-based approaches in DDoS flooding detection using SDN
+  authors:
+  - Tran Manh Nam
+  - Phan Hai Phong
+  - Tran Dinh Khoa
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  - Nguyen Huu Thanh
+  - Luong Xuan Thang
+  - Pham Anh Tuan
+  - Le Quang Dung
+  - Vu Duy Loi
+  publisher: 2018 International Conference on Information Networking (ICOIN)
+  date: '2018-01-01'
+  link: https://doi.org/g89jqk
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3194188.3194196
+  title: Real Time Data-Driven Approaches for Credit Card Fraud Detection
+  authors:
+  - Phuong Hanh Tran
+  - Kim Phuc Tran
+  - Truong Thu Huong
+  - "C\xE9dric Heuchenne"
+  - Phuong HienTran
+  - Thi Minh Huong Le
+  publisher: Proceedings of the 2018 International Conference on E-Business and Applications
+  date: '2018-02-23'
+  link: https://doi.org/g89jqm
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17654/HMSI318413
+  title: USING ONLINE TIME WINDOW EMBEDDING STRATEGY IN GREEN NETWORK VIRTUALIZATION
+  authors:
+  - Tran Manh Nam
+  - Nguyen Tien Manh
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  publisher: JP Journal of Heat and Mass Transfer
+  date: '2018-08-09'
+  link: https://doi.org/g89jqn
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/atc.2017.8167642
+  title: Data driven hyperparameter optimization of one-class support vector machines
+    for anomaly detection in wireless sensor networks
+  authors:
+  - Van Vuong Trinh
+  - Kim Phuc Tran
+  - Truong Thu Huong
+  publisher: 2017 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2017-10-01'
+  link: https://doi.org/g89jqp
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21553/rev-jec.123
+  title: A Multi-Criteria based Software Defined Networking System Architecture for
+    DDoS-Attack Mitigation
+  authors:
+  - Tuyen Dang-Van
+  - Huong Truong-Thu
+  publisher: REV Journal on Electronics and Communications
+  date: '2017-10-19'
+  link: https://doi.org/g89jqq
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3022227.3022336
+  title: Software defined networking-based one-packet DDoS mitigation architecture
+  authors:
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  publisher: Proceedings of the 11th International Conference on Ubiquitous Information
+    Management and Communication
+  date: '2017-01-05'
+  link: https://doi.org/gnmkgn
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2016.7562606
+  title: 'OpenFlowSIA: An optimized protection scheme for software-defined networks
+    from flooding attacks'
+  authors:
+  - Trung V. Phan
+  - Truong Van Toan
+  - Dang Van Tuyen
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  publisher: 2016 IEEE Sixth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2016-07-01'
+  link: https://doi.org/g89jqr
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comnet.2015.09.042
+  title: A generalized resource allocation framework in support of multi-layer virtual
+    network embedding based on SDN
+  authors:
+  - Huu Thanh Nguyen
+  - Anh Vu Vu
+  - Duc Lam Nguyen
+  - Van Huynh Nguyen
+  - Manh Nam Tran
+  - Quynh Thu Ngo
+  - Thu-Huong Truong
+  - Tai Hung Nguyen
+  - Thomas Magedanz
+  publisher: Computer Networks
+  date: '2015-12-01'
+  link: https://doi.org/f73xd3
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2015.7388340
+  title: A multi-criteria-based DDoS-attack prevention solution using software defined
+    networking
+  authors:
+  - Phan Van Trung
+  - Truong Thu Huong
+  - Dang Van Tuyen
+  - Duong Minh Duc
+  - Nguyen Huu Thanh
+  - Alan Marshall
+  publisher: 2015 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2015-10-01'
+  link: https://doi.org/g89jqs
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comnet.2014.10.036
+  title: A new power profiling method and power scaling mechanism for energy-aware
+    NetFPGA gigabit router
+  authors:
+  - Nam Pham Ngoc
+  - Thanh Nguyen Huu
+  - Trong Vu Quang
+  - Vu Tran Hoang
+  - Huong Truong Thu
+  - Phuoc Tran-Gia
+  - Christian Schwartz
+  publisher: Computer Networks
+  date: '2015-02-01'
+  link: https://doi.org/f68rhj
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:978-3-319-26925-2
+  title: 'Mobile Networks and Management: 7th International Conference, MONAMI 2015,
+    Santander, Spain, September 16-18, 2015, Revised Selected Papers'
+  authors: []
+  publisher: 'Springer International Publishing : Imprint: Springer'
+  date: '2015-01-01'
+  link: ''
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1859-1531
+  title: "ISSN 1859-1531 (Print) | T\u1EA1p ch\xED Khoa h\u1ECDc v\xE0 C\xF4ng ngh\u1EC7\
+    \ | The ISSN Portal"
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1859-1531
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2014.7043429
+  title: An enhanced Deterministic Flow Marking technique to efficiently support detection
+    of network spoofing attacks
+  authors:
+  - Dang Van Tuyen
+  - Truong Thu Huong
+  - Nguyen Tai Hung
+  - Bart Puype
+  - Didier Colle
+  - Kris Steenhaut
+  - Nguyen Huu Thanh
+  publisher: 2014 International Conference on Advanced Technologies for Communications
+    (ATC 2014)
+  date: '2014-10-01'
+  link: https://doi.org/g89jqv
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2014.6916703
+  title: A reliable analyzer for energy-saving approaches in Large Data Center Networks
+  authors:
+  - ' Tran Manh Nam'
+  - ' Truong Thu Huong'
+  - ' Nguyen Huu Thanh'
+  - ' Pham Van Cong'
+  - ' Ngo Quynh Thu'
+  - ' Pham Ngoc Nam'
+  - ' Hoang Quoc Viet'
+  - ' Luong Dinh Tho'
+  publisher: 2014 IEEE Fifth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2014-07-01'
+  link: https://doi.org/g89jqw
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2013.6698128
+  title: 'ECODANE: A customizable hybrid testbed for green data center networks'
+  authors:
+  - Nguyen Huu Thanh
+  - Bui Dinh Cuong
+  - To Duc Thien
+  - Pham Ngoc Nam
+  - Ngo Quynh Thu
+  - Truong Thu Huong
+  - Tran Manh Nam
+  publisher: 2013 International Conference on Advanced Technologies for Communications
+    (ATC 2013)
+  date: '2013-10-01'
+  link: https://doi.org/g89jqz
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LANMAN.2013.6528284
+  title: QoE-aware resource provisioning and adaptation in IMS-based IPTV using OpenFlow
+  authors:
+  - Thu Huong-Truong
+  - Nguyen Huu Thanh
+  - Nguyen Tai Hung
+  - Julius Mueller
+  - Thomas Magedanz
+  publisher: 2013 19th IEEE Workshop on Local &amp; Metropolitan Area Networks (LANMAN)
+  date: '2013-04-01'
+  link: https://doi.org/g89jq2
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.simpat.2013.05.011
+  title: Modeling and experimenting combined smart sleep and power scaling algorithms
+    in energy-aware data center networks
+  authors:
+  - Thanh Nguyen Huu
+  - Nam Pham Ngoc
+  - Huong Truong Thu
+  - Thuan Tran Ngoc
+  - Duong Nguyen Minh
+  - Van Giang Nguyen
+  - Hung Nguyen Tai
+  - Thu Ngo Quynh
+  - David Hock
+  - Christian Schwartz
+  publisher: Simulation Modelling Practice and Theory
+  date: '2013-12-01'
+  link: https://doi.org/g89jq3
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: 'doi:DOI: 10.4018/jdst.2013010103'
+  title: Pragmatic Correlations of Quality-of-Experience and Quality-of-Service in
+    IMS-Based IPTV Network
+  authors:
+  - Thu-Huong Truong
+  - Nguyen Huu Thanh
+  - Nguyen Tai Hung
+  publisher: International Journal of Distributed Systems and Technologies
+  date: '2013-01-01'
+  link: https://doi.org/g89jq4
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2012.6315905
+  title: Enabling experiments for energy-efficient data center networks on OpenFlow-based
+    platform
+  authors:
+  - ' Nguyen Huu Thanh'
+  - ' Pham Ngoc Nam'
+  - ' Thu-Huong Truong'
+  - ' Nguyen Tai Hung'
+  - ' Luong Kim Doanh'
+  - Rastin Pries
+  publisher: 2012 Fourth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2012-08-01'
+  link: https://doi.org/g89jq5
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICUFN.2012.6261726
+  title: Service provisioning with Quality-of-Experience support in IMS-based IPTV
+  authors:
+  - ' Thu-Huong Truong'
+  - ' Nguyen Tai Hung'
+  - ' Nguyen Huu Thanh'
+  publisher: 2012 Fourth International Conference on Ubiquitous and Future Networks
+    (ICUFN)
+  date: '2012-07-01'
+  link: https://doi.org/g89jq7
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: 'doi:DOI: 10.1007/s11107-011-0352-9'
+  title: Hierarchical routing and traffic grooming in IP/MPLS-based ASON/GMPLS multi-domain
+    networks
+  authors:
+  - Wajdi Halabi
+  - Kris Steenhaut
+  - Marnix Goossens
+  - Thu-Huong Truong
+  - "Ann Now\xE9"
+  publisher: Photonic Network Communications
+  date: '2011-12-13'
+  link: https://doi.org/c8v275
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/rivf.2012.6169844
+  title: On Relationship between Quality of Experience and Quality of Service Metrics
+    for IMS-Based IPTV Networks
+  authors:
+  - Thu-Huong Truong
+  - Tai-Hung Nguyen
+  - Huu-Thanh Nguyen
+  publisher: 2012 IEEE RIVF International Conference on Computing &amp; Communication
+    Technologies, Research, Innovation, and Vision for the Future
+  date: '2012-02-01'
+  link: https://doi.org/g89jq8
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISCC.2008.4625707
+  title: 'Scheduling high-rate sessions in Fractional Lambda Switching networks: Algorithm
+    and analysis'
+  authors:
+  - ' Thu-Huong Truong'
+  - Mario Baldi
+  - Yoram Ofek
+  publisher: 2008 IEEE Symposium on Computers and Communications
+  date: '2008-07-01'
+  link: https://doi.org/fpktr7
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GLOCOM.2007.444
+  title: Efficient Scheduling for Heterogeneous Fractional Lambda Switching (FLS)
+    Networks
+  authors:
+  - Thu-Huong Truong
+  - Mario Baldi
+  - Yoram Ofek
+  publisher: IEEE GLOBECOM 2007-2007 IEEE Global Telecommunications Conference
+  date: '2007-11-01'
+  link: https://doi.org/cs5xtr
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICC.2007.381
+  title: Scalable Switching Testbed not "Stopping" the Serial Bit Stream
+  authors:
+  - D. Agrawal
+  - M. Baldi
+  - M. Corra
+  - G. Fontana
+  - G. Marchetto
+  - V. T. Nguyen
+  - Y. Ofek
+  - D. Severina
+  - T. H. Truong
+  - O. Zadedyurina
+  publisher: 2007 IEEE International Conference on Communications
+  date: '2007-06-01'
+  link: https://doi.org/cxptt9
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISCC.2007.4381589
+  title: 'A Scalable Approach for Supporting Streaming Media: Design, Implementation
+    and Experiments'
+  authors:
+  - D. Agrawal
+  - M. Baldi
+  - M. Corra
+  - G. Fontana
+  - G. Marchetto
+  - V. T. Nguyen
+  - Y. Ofek
+  - D. Severina
+  - T. H. Truong
+  - O. Zadedyurina
+  publisher: 2007 IEEE Symposium on Computers and Communications
+  date: '2007-07-01'
+  link: https://doi.org/d9b5vt
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LANMAN.2007.4295981
+  title: An Efficient Scheduling Algorithm for Time-Driven Switching Networks
+  authors:
+  - Thu-Huong Truong
+  - Mario Baldi
+  - Yoram Ofek
+  publisher: 2007 15th IEEE Workshop on Local &amp; Metropolitan Area Networks
+  date: '2007-06-01'
+  link: https://doi.org/fkj592
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/cloudnet62863.2024.10815895
+  title: 'FaaSt: A Latency-Aware Serverless Scheme for Edge-Cloud Environments'
+  authors:
+  - Kien Nguyen
+  - Hiep Dao
+  - Tung Nguyen
+  - Frank Loh
+  - Nguyen Huu Thanh
+  - "Tobias Ho\u03B2feld"
+  publisher: 2024 IEEE 13th International Conference on Cloud Networking (CloudNet)
+  date: '2024-11-27'
+  link: https://doi.org/g89kwd
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icce62051.2024.10634695
+  title: An Extended OVN Architecture for End-to-End QoS Guarantee in Network Slicing
+  authors:
+  - Thanh-Hai Pham
+  - Tuan-Anh Nguyen
+  - Dong Tran-Van
+  - Trung Vu-Thanh
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  publisher: 2024 Tenth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2024-07-31'
+  link: https://doi.org/g89kwf
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icce62051.2024.10634714
+  title: Evaluation of Deployment Models for Microservices in an Edge-based Serverless
+    Environment
+  authors:
+  - Kien Nguyen
+  - Frank Loh
+  - "Tobias Ho\xDFfeld"
+  - Le Phuc Lai
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  - Nguyen Huu Thanh
+  publisher: 2024 Tenth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2024-07-31'
+  link: https://doi.org/g89kwk
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icin60470.2024.10494438
+  title: Investigation of Container Network Function Deployment Costs in the Edge
+    Cloud
+  authors:
+  - Kien Nguyen
+  - Filip Simonovski
+  - Frank Loh
+  - "Tobias Ho\xDFfeld"
+  - Nguyen Huu Thanh
+  publisher: 2024 27th Conference on Innovation in Clouds, Internet and Networks (ICIN)
+  date: '2024-03-11'
+  link: https://doi.org/g89kxb
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icoin59985.2024.10572165
+  title: DGA-based Intrusion Detection System using Federated Learning Method on Edge
+    Devices
+  authors:
+  - Nguyen Ngoc Minh
+  - Pham Trung Hieu
+  - Vu Hai
+  - Nguyen Huu Thanh
+  publisher: 2024 International Conference on Information Networking (ICOIN)
+  date: '2024-01-17'
+  link: https://doi.org/g89kxc
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icoin59985.2024.10572125
+  title: Investigation of Serverless Consumption and Performance in Multi-Access Edge
+    Computing
+  authors:
+  - Kien Nguyen
+  - Frank Loh
+  - Kiem Nguyen
+  - Chau Nguyen
+  - Nguyen Huu Thanh
+  - "Tobias Ho\xDFfeld"
+  publisher: 2024 International Conference on Information Networking (ICOIN)
+  date: '2024-01-17'
+  link: https://doi.org/g89kxg
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/cicn59264.2023.10402136
+  title: LVSUM-Optimized Live 360 Degree Video Streaming in Unicast and Multicast
+    Over Mobile Networks
+  authors:
+  - Nguyen Viet Hung
+  - Pham Hong Thinh
+  - Nguyen Huu Thanh
+  - Tran Thanh Lam
+  - Tran Thuy Hien
+  - Vu Thanh Ninh
+  - Truong Thu Huong
+  publisher: 2023 IEEE 15th International Conference on Computational Intelligence
+    and Communication Networks (CICN)
+  date: '2023-12-22'
+  link: https://doi.org/g89kxp
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ictc58733.2023.10392353
+  title: A Novel Method in Mobile Subscriber Location Estimation for Enhancement of
+    Paging Procedure in Mobile Cellular Networks
+  authors:
+  - Kieu-Ha Phung
+  - Van-Phu Tran
+  - Minh-Hung Le
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  - Pham Quang Diep
+  - Le Van Hien
+  - Mai Xuan Ngoc
+  - Le Minh Tu
+  publisher: 2023 14th International Conference on Information and Communication Technology
+    Convergence (ICTC)
+  date: '2023-10-11'
+  link: https://doi.org/g89kxt
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iccworkshops57953.2023.10283589
+  title: Serverless Computing Lifecycle Model for Edge Cloud Deployments
+  authors:
+  - Kien Nguyen
+  - Frank Loh
+  - Tung Nguyen
+  - Duong Doan
+  - Nguyen Huu Thanh
+  - "Tobias Ho\xDFfeld"
+  publisher: 2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+  date: '2023-05-28'
+  link: https://doi.org/g89kx5
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2023.3279845
+  title: "Hand Gesture Recognition From Wrist-Worn Camera for Human\u2013Machine Interaction"
+  authors:
+  - Hong-Quan Nguyen
+  - Trung-Hieu Le
+  - Trung-Kien Tran
+  - Hoang-Nhat Tran
+  - Thanh-Hai Tran
+  - Thi-Lan Le
+  - Hai Vu
+  - Cuong Pham
+  - Thanh Phuong Nguyen
+  - Huu Thanh Nguyen
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/g89kx6
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10922-023-09732-5
+  title: On Profiling, Benchmarking and Behavioral Analysis of SDN Architecture Under
+    DDoS Attacks
+  authors:
+  - Nguyen Huu Thanh
+  - Nguyen Ngoc Tuan
+  - Dang Anh Khoa
+  - Le Cong Tuan
+  - Nguyen Trung Kien
+  - Nguyen Xuan Dung
+  - Ngo Quynh Thu
+  - Florian Wamser
+  publisher: Journal of Network and Systems Management
+  date: '2023-03-29'
+  link: https://doi.org/g89kx7
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/imcom56909.2023.10035625
+  title: Traffic-Adaptive Scheme for SDN Control Plane with Containerized Architecture
+  authors:
+  - Dang Anh Khoa
+  - Nguyen Trung Kiem
+  - Nguyen Trung Kien
+  - Nguyen Ngoc Tuan
+  - Nguyen Huu Thanh
+  publisher: 2023 17th International Conference on Ubiquitous Information Management
+    and Communication (IMCOM)
+  date: '2023-01-03'
+  link: https://doi.org/g89kx8
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2022.3204766
+  title: "An Effective Foveated 360\xB0 Image Assessment Based on Graph Convolution\
+    \ Network"
+  authors:
+  - Truong Thu Huong
+  - Do Thu Ha
+  - Huyen T. T. Tran
+  - Ngo Duc Viet
+  - Bui Duy Tien
+  - Nguyen Huu Thanh
+  - Truong Cong Thang
+  - Pham Ngoc Nam
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g89jpk
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4108/eetinis.v9i32.1058
+  title: Retina-based quality assessment of tile-coded 360-degree videos
+  authors:
+  - Viet Hung Nguyen
+  - Ngoc Nam Pham
+  - Cong Thang Truong
+  - Duy Tien Bui
+  - Huu Thanh Nguyen
+  - Thu Huong Truong
+  publisher: EAI Endorsed Transactions on Industrial Networks and Intelligent Systems
+  date: '2022-06-21'
+  link: https://doi.org/g89kx9
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/icact53585.2022.9728817
+  title: Enhancing CNF performance for 5G core network using SR-IOV in Kubernetes
+  authors:
+  - Dinh Tam Nguyen
+  - Ngoc Lam Dao
+  - Van Thuyet Tran
+  - Khac Thuan Lang
+  - Thanh Tu Pham
+  - Phi Hung Nguyen
+  - Cong Dan Pham
+  - Tuan Anh Pham
+  - Duc Hai Nguyen
+  - Huu Thanh Nguyen
+  publisher: 2022 24th International Conference on Advanced Communication Technology
+    (ICACT)
+  date: '2022-02-13'
+  link: https://doi.org/g89kzb
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/itnac53136.2021.9652156
+  title: 'Machine Learning-based Service Function Chain over UAVs: Resource Profiling
+    and Framework'
+  authors:
+  - Nguyen Trung Kien
+  - Vu Hoang Anh
+  - Vu Dinh Phong
+  - Nguyen Ngoc Minh
+  - Nguyen Huu Thanh
+  publisher: 2021 31st International Telecommunication Networks and Applications Conference
+    (ITNAC)
+  date: '2021-11-24'
+  link: https://doi.org/g89kzd
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/atc52653.2021.9598223
+  title: A pilot study on hand posture recognition from wrist-worn camera for human
+    machine interaction
+  authors:
+  - Thanh-Hai Tran
+  - Hoang-Nhat Tran
+  - Hong-Quan Nguyen
+  - Trung-Hieu Le
+  - Van-Thang Nguyen
+  - Trung-Kien Tran
+  - Cuong Pham
+  - Thi-Lan Le
+  - Hai Vu
+  - Thanh Phuong Nguyen
+  - Nguyen Huu Thanh
+  publisher: 2021 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2021-10-14'
+  link: https://doi.org/g89kzf
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCE48956.2021.9352123
+  title: "An Abnormal Network Tra\uFB03c Detection Scheme Using Local Outlier Factor\
+    \ in SDN"
+  authors:
+  - Nguyen Ngoc Tuan
+  - Nguyen Danh Nghia
+  - Pham Huy Hung
+  - Dinh Khac Tuyen
+  - Nguyen Minh Hieu
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  publisher: 2020 IEEE Eighth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2021-01-13'
+  link: https://doi.org/g89kzg
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JIOT.2021.3064986
+  title: "Energy-Aware Service Function Chain Embedding in Edge\u2013Cloud Environments\
+    \ for IoT Applications"
+  authors:
+  - Nguyen Huu Thanh
+  - Nguyen Trung Kien
+  - Ngo Van Hoa
+  - Truong Thu Huong
+  - Florian Wamser
+  - Tobias Hossfeld
+  publisher: IEEE Internet of Things Journal
+  date: '2021-09-01'
+  link: https://doi.org/g89jpq
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IMCOM51814.2021.9377435
+  title: FTTH Zero-Touch Multi-Service Provisioning on CORD-Based Access Network Virtualization
+    Platform
+  authors:
+  - Tri Trinh
+  - Nguyen Viet Bang
+  - Manabu Yoshino
+  - Hiro Suzuki
+  - Nguyen Huu Thanh
+  publisher: 2021 15th International Conference on Ubiquitous Information Management
+    and Communication (IMCOM)
+  date: '2021-01-04'
+  link: https://doi.org/g89kzx
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCE48956.2021.9352077
+  title: QoE-aware Video Adaptive Streaming over HTTP
+  authors:
+  - Chien T. Dac
+  - Huyen T. T. Tran
+  - Truong Thu Huong
+  - Son Tran
+  - Nguyen Huu Thanh
+  - Pham Ngoc Nam
+  - Truong Cong Thang
+  publisher: 2020 IEEE Eighth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2021-01-13'
+  link: https://doi.org/g89kz6
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11036-020-01543-1
+  title: An Efficient QoE-Aware HTTP Adaptive Streaming over Software Defined Networking
+  authors:
+  - Pham Hong Thinh
+  - Nguyen Thanh Dat
+  - Pham Ngoc Nam
+  - Nguyen Huu Thanh
+  - Hien M. Nguyen
+  - Truong Thu Huong
+  publisher: Mobile Networks and Applications
+  date: '2020-05-17'
+  link: https://doi.org/g6hfp9
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics9030413
+  title: A DDoS Attack Mitigation Scheme in ISP Networks Using Machine Learning Based
+    on SDN
+  authors:
+  - Nguyen Ngoc Tuan
+  - Pham Huy Hung
+  - Nguyen Danh Nghia
+  - Nguyen Van Tho
+  - Trung Van Phan
+  - Nguyen Huu Thanh
+  publisher: Electronics
+  date: '2020-02-29'
+  link: https://doi.org/g89kz7
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icoin48656.2020.9016549
+  title: Adaptive Caching for Beneficial Content Distribution in Information-Centric
+    Networking
+  authors:
+  - Quang N. Nguyen
+  - Jairo Lopez
+  - Toshitaka Tsuda
+  - Takuro Sato
+  - Kien Nguyen
+  - Mohammad Ariffuzzaman
+  - Cutifa Safitri
+  - Nguyen Huu Thanh
+  publisher: 2020 International Conference on Information Networking (ICOIN)
+  date: '2020-01-01'
+  link: https://doi.org/g89kz8
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tnsm.2020.3004415
+  title: 'DeepGuard: Efficient Anomaly Detection in SDN With Fine-Grained Traffic
+    Flow Monitoring'
+  authors:
+  - Trung V. Phan
+  - Tri Gia Nguyen
+  - Nhu-Ngoc Dao
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  - Thomas Bauschert
+  publisher: IEEE Transactions on Network and Service Management
+  date: '2020-09-01'
+  link: https://doi.org/gqg6vj
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/globecom38437.2019.9013585
+  title: 'Q-MIND: Defeating Stealthy DoS Attacks in SDN with a Machine-Learning Based
+    Defense Framework'
+  authors:
+  - Trung V. Phan
+  - T. M. Rayhan Gias
+  - Syed Tasnimul Islam
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  - Thomas Bauschert
+  publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
+  date: '2019-12-01'
+  link: https://doi.org/g89kz9
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/atc.2019.8924556
+  title: A Low-Power, High Reliable Data Collection Scheme for Wireless Sensor Networks
+  authors:
+  - Nguyen Quang Hieu
+  - Truong Thu Huong
+  - Nguyen Tai Hung
+  - Ngo Quynh Thu
+  - Nguyen Huu Thanh
+  publisher: 2019 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2019-10-01'
+  link: https://doi.org/g89k2b
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ictc46691.2019.8939829
+  title: A Robust TCP-SYN Flood Mitigation Scheme Using Machine Learning Based on
+    SDN
+  authors:
+  - Nguyen Ngoc Tuan
+  - Pham Huy Hung
+  - Nguyen Danh Nghia
+  - Nguyen Van Tho
+  - Trung V. Phan
+  - Nguyen Huu Thanh
+  publisher: 2019 International Conference on Information and Communication Technology
+    Convergence (ICTC)
+  date: '2019-10-01'
+  link: https://doi.org/g89k2c
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2018.8465747
+  title: Integrating Trickle Timing in Software Defined WSNs for Energy Efficiency
+  authors:
+  - Nguyen Quang Hieu
+  - Nguyen Huu Thanh
+  - Truong Thu Huong
+  - Ngo Quynh Thu
+  - Hoang Van Quang
+  publisher: 2018 IEEE Seventh International Conference on Communications and Electronics
+    (ICCE)
+  date: '2018-07-01'
+  link: https://doi.org/g89k2d
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICOIN.2018.8343119
+  title: Self-organizing map-based approaches in DDoS flooding detection using SDN
+  authors:
+  - Tran Manh Nam
+  - Phan Hai Phong
+  - Tran Dinh Khoa
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  - Nguyen Huu Thanh
+  - Luong Xuan Thang
+  - Pham Anh Tuan
+  - Le Quang Dung
+  - Vu Duy Loi
+  publisher: 2018 International Conference on Information Networking (ICOIN)
+  date: '2018-01-01'
+  link: https://doi.org/g89jqk
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2018.8465723
+  title: Water and Energy-Efficient Irrigation based on Markov Decision Model for
+    Precision Agriculture
+  authors:
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  - Nguyen Thi Van
+  - Nguyen Tien Dat
+  - Nguyen Van Long
+  - Alan Marshall
+  publisher: 2018 IEEE Seventh International Conference on Communications and Electronics
+    (ICCE)
+  date: '2018-07-01'
+  link: https://doi.org/g89k2f
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comnet.2017.06.007
+  title: "Joint network embedding and server consolidation for energy\u2013efficient\
+    \ dynamic data center virtualization"
+  authors:
+  - Tran Manh Nam
+  - Nguyen Huu Thanh
+  - Hoang Trung Hieu
+  - Nguyen Tien Manh
+  - Nguyen Van Huynh
+  - Hoang Duong Tuan
+  publisher: Computer Networks
+  date: '2017-10-01'
+  link: https://doi.org/gcf8c5
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2017.8167618
+  title: 'AQA<sup>2</sup>: An analytical QoS-assessment approach for service function
+    chaining in cloud environment'
+  authors:
+  - Trung V. Phan
+  - Linh H. Ngo
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  publisher: 2017 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2017-10-01'
+  link: https://doi.org/g89k2g
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ECTICon.2017.8096324
+  title: Mitigating HTTP GET flooding attacks in SDN using NetFPGA-based OpenFlow
+    switch
+  authors:
+  - An Nguyen Viet
+  - Luan Phung Van
+  - Hoang-Anh Nguyen Minh
+  - Huy Duong Xuan
+  - Nam Pham Ngoc
+  - Thanh Nguyen Huu
+  publisher: 2017 14th International Conference on Electrical Engineering/Electronics,
+    Computer, Telecommunications and Information Technology (ECTI-CON)
+  date: '2017-06-01'
+  link: https://doi.org/g89k2h
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-49073-1_54
+  title: Reducing Middle Nodes Mapping Algorithm for Energy Efficiency in Network
+    Virtualization
+  authors:
+  - Tran Manh Nam
+  - Nguyen Van Huynh
+  - Nguyen Huu Thanh
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2016-11-12'
+  link: https://doi.org/g89k2j
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dac.3137
+  title: Joint scheduling and mapping in support of downlink fairness and spectral
+    efficiency in ieee 802.16e OFDMA system
+  authors:
+  - Nguyen Huu Thanh
+  - Doan Van Tung
+  - Ngo Quynh Thu
+  - Nguyen Canh Nam
+  - Kumbesan Sandrasegaran
+  publisher: International Journal of Communication Systems
+  date: '2016-05-11'
+  link: https://doi.org/g89k2k
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ITC-28.2016.112
+  title: An Energy-Aware Embedding Algorithm for Virtual Data Centers
+  authors:
+  - Tran Manh Nam
+  - Nguyen Van Huynh
+  - Le Quang Dai
+  - Nguyen Huu Thanh
+  publisher: 2016 28th International Teletraffic Congress (ITC 28)
+  date: '2016-09-01'
+  link: https://doi.org/g89k2m
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2016.7562624
+  title: Energy balancing RPL-based routing for Internet of Things
+  authors:
+  - Mai Banh
+  - Nam Nguyen
+  - Kieu-Ha Phung
+  - Long Nguyen
+  - Nguyen Huu Thanh
+  - Kris Steenhaut
+  publisher: 2016 IEEE Sixth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2016-07-01'
+  link: https://doi.org/g89k2n
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ELINFOCOM.2016.7562926
+  title: Green data center using centralized power-management of network and servers
+  authors:
+  - Tran Manh Nam
+  - Nguyen Huu Thanh
+  - Doan Anh Tuan
+  publisher: 2016 International Conference on Electronics, Information, and Communications
+    (ICEIC)
+  date: '2016-01-01'
+  link: https://doi.org/g89k2v
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2016.7764821
+  title: Hardware-efficient implementation of WFQ algorithm on NetFPGA-based OpenFlow
+    switch
+  authors:
+  - Hai Tran Hong
+  - Quy Bien Xuan
+  - Duong Doan Van
+  - Nam Pham Ngoc
+  - Thanh Nguyen Huu
+  publisher: 2016 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2016-10-01'
+  link: https://doi.org/g89k25
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2857546.2857569
+  title: Joint Vertical Handoff and Resource Allocation in OFDMA/TDD Systems based
+    on Software-Defined Wireless Network
+  authors:
+  - Doan Van Tung
+  - Nguyen Huu Thanh
+  - Tran Manh Nam
+  - Nguyen Tai Hung
+  - Nguyen Xuan Dung
+  publisher: Proceedings of the 10th International Conference on Ubiquitous Information
+    Management and Communication
+  date: '2016-01-04'
+  link: https://doi.org/g89k26
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2016.7764441
+  title: Message from the ATC'16 general chairs
+  authors: []
+  publisher: 2016 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2016-10-01'
+  link: https://doi.org/g89k27
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7125/40.3
+  title: Constructing Energy-Aware Software-Defined Network Virtualization
+  authors:
+  - Nam Manh Tran
+  - Thanh Huu Nguyen
+  - Van Hong Nguyen
+  - Long Bao Kim
+  - Lam Duc Nguyen
+  - Huynh Van Nguyen
+  - Ca Van Nguyen
+  publisher: Proceedings of the Asia-Pacific Advanced Network
+  date: '2015-10-21'
+  link: https://doi.org/g89k28
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7125/40.4
+  title: 'OF@TEIN: A Community Effort towards Open/Shared SDN-Cloud Virtual Playground'
+  authors:
+  - Aris Cahyadi Risdianto
+  - Namgon Lucas Kim
+  - Junsik Shin
+  - Jeongju Bae
+  - Muhammad Usman
+  - Teck Chaw Ling
+  - Parichat Panwaree
+  - Phyo May Thet
+  - Chaodit Aswakul
+  - Nguyen Huu Thanh
+  - Azeem Iqbal
+  - Uzzam Javed
+  - Muhammad Usman Ilyas
+  - JongWon Kim
+  publisher: Proceedings of the Asia-Pacific Advanced Network
+  date: '2015-10-21'
+  link: https://doi.org/g89k29
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ComManTel.2015.7394257
+  title: A high throughput pipelined hardware architecture for tag sorting in packet
+    fair queuing schedulers
+  authors:
+  - Nguyen Van Tu
+  - Vu Tang Thien
+  - Son Nguyen Kim
+  - Nam Pham Ngoc
+  - Thanh Nguyen Huu
+  publisher: 2015 International Conference on Communications, Management and Telecommunications
+    (ComManTel)
+  date: '2015-12-01'
+  link: https://doi.org/g89k3b
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ECTICon.2015.7206990
+  title: An optimal dynamic virtual network allocation algorithm for cloud resident
+    data center
+  authors:
+  - ' Tri Trinh'
+  - ' Nguyen Huu Thanh'
+  - Julius Mueller
+  - Chaodit Aswakul
+  publisher: 2015 12th International Conference on Electrical Engineering/Electronics,
+    Computer, Telecommunications and Information Technology (ECTI-CON)
+  date: '2015-06-01'
+  link: https://doi.org/g89k3c
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40064-014-0775-8
+  title: Energy saving for OpenFlow switch on the NetFPGA platform based on queue
+    engineering
+  authors:
+  - Tran Hoang Vu
+  - Vu Cong Luc
+  - Nguyen Trung Quan
+  - Nguyen Huu Thanh
+  - Pham Ngoc Nam
+  publisher: SpringerPlus
+  date: '2015-02-06'
+  link: https://doi.org/g89k3d
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ECTICon.2015.7207042
+  title: Energy-aware routing based on power profile of devices in data center networks
+    using SDN
+  authors:
+  - ' Tran Manh Nam'
+  - ' Nguyen Huu Thanh'
+  - ' Ngo Quynh Thu'
+  - ' Hoang Trung Hieu'
+  - Stefan Covaci
+  publisher: 2015 12th International Conference on Electrical Engineering/Electronics,
+    Computer, Telecommunications and Information Technology (ECTI-CON)
+  date: '2015-06-01'
+  link: https://doi.org/g89k3f
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2015.7388321
+  title: Performance evaluation of multiple RPL routing tree instances for Internet
+    of Things applications
+  authors:
+  - Mai Banh
+  - Hieu Mac
+  - Nam Nguyen
+  - Kieu-Ha Phung
+  - Nguyen Huu Thanh
+  - Kris Steenhaut
+  publisher: 2015 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2015-10-01'
+  link: https://doi.org/g89k3g
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1166/jolpe.2014.1328
+  title: Sleep Mode and Wakeup Method for OpenFlow Switches
+  authors:
+  - T. H. Vu
+  - V. C. Luc
+  - N. T. Quan
+  - T. Thanh
+  - N. H. Thanh
+  - P. N. Nam
+  publisher: Journal of Low Power Electronics
+  date: '2014-09-01'
+  link: https://doi.org/g89k3h
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICED.2014.7015820
+  title: The new method to save energy for Openflow Switch based on traffic engineering
+  authors:
+  - Tran Hoang Vu
+  - Vu Cong Luc
+  - Nguyen Trung Quan
+  - Tran Manh Nam
+  - Nguyen Huu Thanh
+  - Pham Ngoc Nam
+  publisher: 2014 2nd International Conference on Electronic Design (ICED)
+  date: '2014-08-01'
+  link: https://doi.org/g89k3j
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ECTICon.2013.6559550
+  title: Improving performance of wireless sensors networks by using multichannel
+    communications
+  authors:
+  - Kieu-Ha Phung
+  - Thu Ngo-Quynh
+  - Hung Luong-Duc
+  - Thanh Nguyen-Huu
+  publisher: 2013 10th International Conference on Electrical Engineering/Electronics,
+    Computer, Telecommunications and Information Technology
+  date: '2013-05-01'
+  link: https://doi.org/g89k3k
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/jdst.2013010103
+  title: Pragmatic Correlations of Quality-of-Experience and Quality-of-Service in
+    IMS-Based IPTV Network
+  authors:
+  - Thu-Huong Truong
+  - Nguyen Huu Thanh
+  - Nguyen Tai Hung
+  publisher: International Journal of Distributed Systems and Technologies
+  date: '2013-01-01'
+  link: https://doi.org/g89jq4
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICUFN.2013.6614857
+  title: Toward a full implementation of SCIM functional block in IMS framework
+  authors:
+  - ' Nguyen Tai Hung'
+  - ' Nguyen Huu Thanh'
+  - Thomas Magedanz
+  - Julius Mueller
+  publisher: 2013 Fifth International Conference on Ubiquitous and Future Networks
+    (ICUFN)
+  date: '2013-07-01'
+  link: https://doi.org/g89k3m
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2012.6404282
+  title: Power aware OpenFlow switch extension for energy saving in data centers
+  authors:
+  - ' Tran Hoang Vu'
+  - ' Pham Ngoc Nam'
+  - ' Tran Thanh'
+  - ' Le Thai Hung'
+  - ' Le Anh Van'
+  - ' Nguyen Duy Linh'
+  - ' To Duc Thien'
+  - ' Nguyen Huu Thanh'
+  publisher: The 2012 International Conference on Advanced Technologies for Communications
+  date: '2012-10-01'
+  link: https://doi.org/g89k3n
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2012.6315867
+  title: Reducing link switching delay in LED-ID Network based on location information
+    of mobile device
+  authors:
+  - ' Tuan Nguyen'
+  - ' Mostafa Zaman Chowdhury'
+  - Yeong Min Jang
+  - ' Nguyen Huu Thanh'
+  publisher: 2012 Fourth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2012-08-01'
+  link: https://doi.org/g89k3p
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICOIN.2011.5723182
+  title: On providing fairness, QoS support and spectral efficiency in OFDMA/TDD environments
+  authors:
+  - Nguyen Huu Thanh
+  - Nguyen Van Duc
+  - Le Thi Hang
+  - Do Hanh
+  - Nguyen Tai Hung
+  - Tran Anh Tu
+  publisher: The International Conference on Information Networking 2011 (ICOIN2011)
+  date: '2011-01-01'
+  link: https://doi.org/dkr8zx
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-17851-1_45
+  title: 'IMS IPTV: An Experimental Approach'
+  authors:
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  - Nguyen Giang Nam
+  - Tran Ngoc Lan
+  - Dinh Thai Hoang
+  publisher: Lecture Notes of the Institute for Computer Sciences, Social Informatics
+    and Telecommunications Engineering
+  date: '2011-01-01'
+  link: https://doi.org/bqntk2
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATNAC.2010.5679568
+  title: Intelligent features for IMS-based IPTV
+  authors:
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  publisher: 2010 Australasian Telecommunication Networks and Applications Conference
+  date: '2010-10-01'
+  link: https://doi.org/dt2cq8
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ATC.2009.5349336
+  title: Implementation of an OFDM system based on the TMS320C6416 DSP
+  authors:
+  - Van Duc Nguyen
+  - Van Luong Pham
+  - Van Xiem Hoang
+  - Huy Dung Han
+  - Huu Thanh Nguyen
+  - Tien Hoa Nguyen
+  publisher: 2009 International Conference on Advanced Technologies for Communications
+  date: '2009-10-01'
+  link: https://doi.org/d63f8m
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISWCS.2009.5285326
+  title: Multimedia session continuity with context-aware capability in IMS-based
+    network
+  authors:
+  - Nguyen Huu Thanh
+  - Le Thi Hang
+  - Ngo Quynh Thu
+  - Vu Van Yem
+  - Nguyen Xuan Dung
+  publisher: 2009 6th International Symposium on Wireless Communication Systems
+  date: '2009-09-01'
+  link: https://doi.org/c8q5vd
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISWCS.2009.5285293
+  title: Single channel all digital direction finding system
+  authors:
+  - Vu Van Yem
+  - Nguyen Huu Thanh
+  publisher: 2009 6th International Symposium on Wireless Communication Systems
+  date: '2009-09-01'
+  link: https://doi.org/dh9wth
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CCE.2006.350845
+  title: Link Estimation and Rate Control for Optimized Video Streaming on Overlay
+    Networks
+  authors:
+  - Nguyen Huu Thanh
+  - Ngo Quynh Thu
+  - Nguyen Tai Hung
+  publisher: 2006 First International Conference on Communications and Electronics
+  date: '2006-10-01'
+  link: https://doi.org/fpvbk6
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:3-631-39675-9
+  title: Quality of service support in an IP-ATM environment
+  authors:
+  - Huu-Thanh Nguyen
+  publisher: Lang
+  date: '2002-01-01'
+  link: ''
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/3-540-47728-4_25
+  title: An Adaptive Bandwidth Scheduling for Throughput and Delay Differentiation
+  authors:
+  - Huu-Thanh Nguyen
+  - Helmut Rzehak
+  publisher: Lecture Notes in Computer Science
+  date: '2001-01-01'
+  link: https://doi.org/dqgjfz
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.36227/techrxiv.173030681.13244862/v1
+  title: Modeling User Quality of Experience in Adaptive Point Cloud Video Streaming
+  authors:
+  - Duc V. Nguyen
+  - Nguyen Long Quang
+  - Tran Thuy Hien
+  - Nguyen Ngoc Huyen
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2024-12-11'
+  link: https://doi.org/g89jsf
+  type: paper
+  buttons:
+  - type: github
+    link: quangnguyenlong/DynamicPointCloudSubjectiveTest
+  tags:
+  - XR communications
+  repo: quangnguyenlong/DynamicPointCloudSubjectiveTest
+  plugin: sources.py
+  file: sources.yaml

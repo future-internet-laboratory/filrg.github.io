@@ -1,0 +1,33 @@
+- id: doi:10.1371/journal.pcbi.1007128
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  date: 2020-12-4
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons: 
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
+  tags:
+    - open science
+    - collaboration
+  repo: greenelab/meta-review
+
+- id: doi:10.36227/techrxiv.173030681.13244862/v1
+  type: paper
+  date: 2024-12-11
+  buttons:
+    - type: github
+      link: quangnguyenlong/DynamicPointCloudSubjectiveTest
+  tags:
+    - XR communications
+  repo: quangnguyenlong/DynamicPointCloudSubjectiveTest
+
+
+- id: doi:10.1109/ACCESS.2025.3538802
+  tags:
+    - XR communications
+  image: https://ieeexplore.ieee.org/ielx8/6287639/10820123/10870276/graphical_abstract/access-gagraphic-3538802.jpg
