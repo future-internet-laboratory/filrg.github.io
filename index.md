@@ -20,6 +20,77 @@
 
 {% include section.html %}
 
+
+# {% include icon.html icon="fa-solid fa-book" %}**Research domains**
+
+{% capture text %}
+
+The iVR Team conducts research on the delivery and optimization of advanced immersive media formats, including on-demand and live streaming of 360-degree video, volumetric video, and emerging representations such as neural radiance fields (NeRF). The team investigates adaptive streaming protocols, notably Dynamic Adaptive Streaming over HTTP (DASH), and focuses on enhancing the Quality of Experience (QoE) for users consuming immersive content.
+
+{%
+  include button.html
+  link="ivrteam"
+  text="More details"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+
+{%
+  include feature.html
+  image="images/fil/ivr/longdress_raw_LoD.png"
+  link="ivrteam"
+  flip=true 
+  title="Immersive & Intelligent VR Streaming Team"
+  text=text
+%}
+
+{% capture text %}
+
+{%
+  include button.html
+  link="netsecteam"
+  text="More details"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="netsecteam"
+  title="Network Security Team"
+  text=text
+%}
+
+{% capture text %}
+
+{%
+  include button.html
+  link="xxx"
+  text="More details"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="xxx"
+  flip=true 
+  title="XXX Team"
+  text=text
+%}
+
 ## Highlights
 
 {% capture text %}
@@ -92,3 +163,6 @@ FILRG brings together researchers and students passionate about the future of ne
   title="Our Team"
   text=text
 %}
+
+
+

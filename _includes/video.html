@@ -1,0 +1,38 @@
+<figure class="video">
+  <video
+    id="dash-video-{{ include.video | slugify }}"
+    controls
+    {% if include.autoplay %} autoplay loop {% endif %}
+    style="width: {{ include.width | default: '100%' }}; max-height: {{ include.height | default: 'unset' }}; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+  ></video>
+
+  {% if include.caption %}
+    <figcaption class="figure-caption">
+      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+    </figcaption>
+  {% endif %}
+
+  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+  <script>
+    (function() {
+      var url = "{{ include.video | relative_url | uri_escape }}";
+      var player = dashjs.MediaPlayer().create();
+      player.initialize(
+        document.querySelector("#dash-video-{{ include.video | slugify }}"),
+        url,
+        {{ include.autoplay | default: false }}
+        );
+    player.updateSettings({
+      streaming: {
+        abr: {
+          autoSwitchBitrate: {
+            video: true,
+            audio: true
+          }
+        }
+      }
+    });
+
+    })();
+  </script>
+</figure>
