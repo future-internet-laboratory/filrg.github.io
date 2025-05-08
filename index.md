@@ -61,36 +61,6 @@ The iVR Team conducts research on the delivery and optimization of advanced imme
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="netsecteam"
-  title="Network Security Team"
-  text=text
-%}
-
-{% capture text %}
-
-{%
-  include button.html
-  link="xxx"
-  text="More details"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="xxx"
-  flip=true 
-  title="XXX Team"
-  text=text
-%}
-
 ## Highlights
 
 {% capture text %}

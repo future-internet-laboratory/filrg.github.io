@@ -51,5 +51,5 @@ link="https://github.com/filrg/pcprep" %}
 
 {% include grid.html style="square" content=content %}
 
-{% include button.html link="members/co-truong-thu-huong.html" text="Contact head" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
-
+{% include button.html link="vr360-dash-demo" text="See our demo" icon="fa-solid fa-arrow-left" %}
+{% include button.html link="members/co-truong-thu-huong.html" text="Contact head" icon="fa-solid fa-arrow-right" flip=true %}
