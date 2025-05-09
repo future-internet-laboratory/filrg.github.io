@@ -1,1 +1,1 @@
-Sitemap: https://future-internet-laboratory.github.io/filrg.github.io/sitemap.xml
+Sitemap: https://filrg.github.io/sitemap.xml
